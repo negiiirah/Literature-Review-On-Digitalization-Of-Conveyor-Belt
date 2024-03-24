@@ -36,7 +36,7 @@ The historical trajectory of conveyor belts is not just a testament to human ing
 The inception of conveyor belt technology can be traced back to ancient civilizations, where rudimentary versions were utilized for moving goods and materials. Among the earliest examples is the Archimedes Screw, a device invented in the 3rd century BC for elevating water. This invention laid the foundational principles of elevating materials through mechanical means, a concept that would evolve into the conveyor belts of today.
 - **Figure 1.1**: Archimedes screw water machine (left) and a current screw conveyor (right)
   
- ![Figure Description](/main/figure1.1.png)
+ ![Figure 1.1](/main/figure1.1.png)
 
   Another noteworthy ancient device is the Persian waterwheel, or Raha, which exemplifies early engineering solutions for elevating water in arid regions of Persia. Featuring a series of buckets attached to a large wheel, it efficiently transported water from sources to higher grounds for irrigation. The Raha's continuous motion and material handling principles echo the foundational concepts seen in later conveyor belt technology, highlighting the enduring human endeavor to efficiently move materials.
 
@@ -52,7 +52,7 @@ In England, George Lyster's work in the 19th century on the docks for grain hand
 
 - **Figure 1.3**: General view of band conveyor with adjustable throw-off carriage designed for the Liverpool Docks
   
-  ![Figure 1.3](/images/Figure1_3.png)
+  ![Figure 1.3](/main/Fig4.png)
 
 The exploration and mining industries also benefited from the advent of conveyor belt technology. In Russia, Alexander Lopatine's introduction of belt conveyors to the mining sector in the mid-19th century marked a significant milestone. It demonstrated the system's capability to transport materials over varying terrains, thus broadening the scope of conveyor belt applications.
 
@@ -60,15 +60,15 @@ The late 19th and early 20th centuries witnessed further innovations that shaped
 
 - **Figure 1.4**: Patent of conveyor belt by Thomas Robins in 1893
   
-  ![Figure 1.4](/images/Figure1_4.png)
+  ![Figure 1.4](/main/Fig5.png)
 
 - **Figure 1.5**: Robins’ stepped-ply belt 1896
   
-  ![Figure 1.5](/images/Figure1_5.png)
+  ![Figure 1.5](/main/Fig6.png)
 
 - **Figure 1.6**: Stepped-ply belt on 45° troughing idlers required the use of side-guide pulleys to insure the belt alignment
   
-  ![Figure 1.6](/images/Figure1_6.png)
+  ![Figure 1.6](/main/Fig7.png)
 
 These developments were paralleled by the growing complexity of industrial operations, demanding more sophisticated material handling solutions. The evolution of conveyor belts from simple mechanical devices to complex systems capable of handling diverse materials across various industries illustrates this shift. Today, conveyor belts are integral to the operations of warehouses, manufacturing plants, and distribution centers, among others.
 
