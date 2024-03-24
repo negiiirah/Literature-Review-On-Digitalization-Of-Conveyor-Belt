@@ -52,7 +52,7 @@ In England, George Lyster's work in the 19th century on the docks for grain hand
 
 - **Figure 1.3**: General view of band conveyor with adjustable throw-off carriage designed for the Liverpool Docks
   
-  ![Figure 1.3](/main/Fig4.png)
+  ![Figure 1.3](/main/fig4.PNG)
 
 The exploration and mining industries also benefited from the advent of conveyor belt technology. In Russia, Alexander Lopatine's introduction of belt conveyors to the mining sector in the mid-19th century marked a significant milestone. It demonstrated the system's capability to transport materials over varying terrains, thus broadening the scope of conveyor belt applications.
 
