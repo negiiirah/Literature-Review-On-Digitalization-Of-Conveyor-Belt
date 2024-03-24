@@ -36,13 +36,13 @@ The historical trajectory of conveyor belts is not just a testament to human ing
 The inception of conveyor belt technology can be traced back to ancient civilizations, where rudimentary versions were utilized for moving goods and materials. Among the earliest examples is the Archimedes Screw, a device invented in the 3rd century BC for elevating water. This invention laid the foundational principles of elevating materials through mechanical means, a concept that would evolve into the conveyor belts of today.
 - **Figure 1.1**: Archimedes screw water machine (left) and a current screw conveyor (right)
   
- ![Figure Description](/images/figure1.1.png)
+ ![Figure Description](/main/figure1.1.png)
 
   Another noteworthy ancient device is the Persian waterwheel, or Raha, which exemplifies early engineering solutions for elevating water in arid regions of Persia. Featuring a series of buckets attached to a large wheel, it efficiently transported water from sources to higher grounds for irrigation. The Raha's continuous motion and material handling principles echo the foundational concepts seen in later conveyor belt technology, highlighting the enduring human endeavor to efficiently move materials.
 
 - **Figure 1.2**: Persian waterwheel (Yannopoulos et al. 2015)
   
-  [Figure 1.2](/images/Figure1.2.png)
+  ![Figure 1.2](/main/Figure1.2.png)
 
 Fast forward to the 17th century, the concept of conveyor belts began to take a more recognizable shape. Documents from this era describe belt-driven machines used for lifting water and moving soil, marking the beginning of using belt systems for material handling beyond just water elevation. These early versions were primarily powered by manual labor or animals, showcasing the initial steps toward mechanizing material movement.
 
