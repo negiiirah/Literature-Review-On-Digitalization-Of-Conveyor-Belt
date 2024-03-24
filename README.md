@@ -42,7 +42,7 @@ The inception of conveyor belt technology can be traced back to ancient civiliza
 
 - **Figure 1.2**: Persian waterwheel (Yannopoulos et al. 2015)
   
-  ![Figure 1.2](/images/Figure1_2.png)
+  [Figure 1.2](/images/Figure1.2.png)
 
 Fast forward to the 17th century, the concept of conveyor belts began to take a more recognizable shape. Documents from this era describe belt-driven machines used for lifting water and moving soil, marking the beginning of using belt systems for material handling beyond just water elevation. These early versions were primarily powered by manual labor or animals, showcasing the initial steps toward mechanizing material movement.
 
