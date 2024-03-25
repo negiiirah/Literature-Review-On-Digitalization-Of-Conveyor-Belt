@@ -36,13 +36,13 @@ The historical trajectory of conveyor belts is not just a testament to human ing
 The inception of conveyor belt technology can be traced back to ancient civilizations, where rudimentary versions were utilized for moving goods and materials. Among the earliest examples is the Archimedes Screw, a device invented in the 3rd century BC for elevating water. This invention laid the foundational principles of elevating materials through mechanical means, a concept that would evolve into the conveyor belts of today.
 - **Figure 1.1**: Archimedes screw water machine (left) and a current screw conveyor (right)
   
-![alt text](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/main/Figure1.1.PNG?raw=true)
+![alt text](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/Figure%201.1.PNG)
 
   Another noteworthy ancient device is the Persian waterwheel, or Raha, which exemplifies early engineering solutions for elevating water in arid regions of Persia. Featuring a series of buckets attached to a large wheel, it efficiently transported water from sources to higher grounds for irrigation. The Raha's continuous motion and material handling principles echo the foundational concepts seen in later conveyor belt technology, highlighting the enduring human endeavor to efficiently move materials.
 
 - **Figure 1.2**: Persian waterwheel (Yannopoulos et al. 2015)
-  
-![Figure 1.2](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/raw/main/Figure1.2.PNG)
+
+![Figure 1.2](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/Figure%201.2.PNG)
 
 Fast forward to the 17th century, the concept of conveyor belts began to take a more recognizable shape. Documents from this era describe belt-driven machines used for lifting water and moving soil, marking the beginning of using belt systems for material handling beyond just water elevation. These early versions were primarily powered by manual labor or animals, showcasing the initial steps toward mechanizing material movement.
 
@@ -51,24 +51,24 @@ The industrial revolution of the 18th and 19th centuries served as a catalyst fo
 In England, George Lyster's work in the 19th century on the docks for grain handling illustrated the adaptability and utility of belt conveyors in handling bulk materials. His contributions, alongside those of his contemporaries, underscored the growing recognition of conveyor belts as vital components in industrial logistics and production.
 
 - **Figure 1.3**: General view of band conveyor with adjustable throw-off carriage designed for the Liverpool Docks
-  
-  ![Figure 1.3](/main/fig4.PNG)
+
+  ![Figure 1.3](fig4.jpg)
 
 The exploration and mining industries also benefited from the advent of conveyor belt technology. In Russia, Alexander Lopatine's introduction of belt conveyors to the mining sector in the mid-19th century marked a significant milestone. It demonstrated the system's capability to transport materials over varying terrains, thus broadening the scope of conveyor belt applications.
 
 The late 19th and early 20th centuries witnessed further innovations that shaped the modern conveyor belt. American inventor Thomas Robins played a pivotal role in this era, introducing key elements such as rubber belts and idlers. His work not only improved the durability and efficiency of conveyor systems but also set new standards for their design and application in industrial settings.
 
 - **Figure 1.4**: Patent of conveyor belt by Thomas Robins in 1893
-  
-  ![Figure 1.4](/main/Fig5.png)
+
+  ![Figure 1.4](fig5.jpg)
 
 - **Figure 1.5**: Robins’ stepped-ply belt 1896
-  
-  ![Figure 1.5](/main/Fig6.png)
+
+  ![Figure 1.5](fig6.jpg)
 
 - **Figure 1.6**: Stepped-ply belt on 45° troughing idlers required the use of side-guide pulleys to insure the belt alignment
-  
-  ![Figure 1.6](/main/Fig7.png)
+
+  ![Figure 1.6](fig7.jpg)
 
 These developments were paralleled by the growing complexity of industrial operations, demanding more sophisticated material handling solutions. The evolution of conveyor belts from simple mechanical devices to complex systems capable of handling diverse materials across various industries illustrates this shift. Today, conveyor belts are integral to the operations of warehouses, manufacturing plants, and distribution centers, among others.
 
@@ -193,23 +193,25 @@ So, how do you go about building this industrial beast? It starts with a lot of 
 Then comes the cool part. They didn't just imagine this titan of transportation; they built it in a 3D computer model, making it as real as possible without actually hammering a single nail. It's like playing the most advanced video game, where the goal is to not let the virtual coal spill.
 
 **Figure 4.1**: 3D CAD Model of Conveyor Pulley.
-  
-  ![Figure 4.1](/images/Figure4_1.png)
+
+![Figure4_1.jpg](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/pro1.PNG)
 
 But how do you make sure this virtual giant can handle the pressure in the real world? You put it through the wringer with something called finite element analysis. It's essentially a stress test that tells you whether your design is the Hercules of conveyor belts or if it's going to crumble under the pressure. This software, ANSYS, is like the oracle predicting whether the design will hold up when the going gets tough.
 
- **Figure 4.2**: Load application on pulley.
-  
-  ![Figure 4.2](/images/Figure4_2.png)
+**Figure 4.2**: Load application on pulley.
+
+![Figure 4.2](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/pro3.PNG)
+
 After passing the virtual tests with flying colors, it was time to bring this beast to life and see how it fared under real-world conditions. It's akin to the final boss battle where the conveyor belt had to prove its mettle. And guess what? It handled the challenge like a champ, transporting coal efficiently and proving that all the hard work, calculations, and tests paid off.
 
- **Figure 4.3**: Maximum deflection 0.36029 mm.
-  
-  ![Figure 4.3](/images/Figure4_3.png)
+**Figure 4.3**: Maximum deflection 0.36029 mm.
 
- **Figure 4.4**: Max Stress on shell 9.5768 MPa.
-  
-  ![Figure 4.4](/images/Figure4_4.png)
+![Figure4.3](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/pro5.PNG)
+
+**Figure 4.4**: Max Stress on shell 9.5768 MPa.
+
+![Figure4.4](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/pro6.PNG)
+
 
 In essence, we're talking about the journey of creating an industrial marvel that's built to effortlessly move mountains of coal. It's a tale of engineering wizardry, where meticulous planning, rigorous testing, and a bit of digital magic come together to create a system that's not just efficient and reliable but also a testament to human ingenuity in tackling the challenges of the industrial world.
 
@@ -259,26 +261,29 @@ The issues these belts face can be surprisingly varied. Sticky materials clingin
 This system is particularly effective in preventing carryback, a condition where material sticks to the belt and is carried back around the system. The dual scraper setup, positioned at the head pulley, helps remove this residual material, ensuring the belt is clean for its return journey.
 
  **Figure 5.1**: Dual Scraper System.
-  
-  ![Figure 5.1](/images/Figure5_1.png)
 
--item Brush System:
+![Figure5.1](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/Capture2.PNG)
+
+- item Brush System:
 
 For materials that are sticky or difficult to remove, a brush system can be implemented. This system uses either manual or powered brushes positioned under the belt to sweep away clinging materials from the belt surface. It's an effective solution for maintaining cleanliness and preventing material buildup.
+
 **Figure 5.2**: Brush System.
-  
-  ![Figure 5.2](/images/Figure5_2.png)
--item Water Spray System:
+
+![Figure5.2](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/Capture3.PNG)
+
+- item Water Spray System:
 
 This involves spraying water under the conveyor belt to help remove sticky materials. The water spray acts as a non-invasive method to cleanse the belt surface, particularly useful for materials that might react negatively to mechanical scraping or brushing.
 
--item Rubber Scraper:
+- item Rubber Scraper:
 
 A rubber scraper can be used to clean the belt effectively. It's a simple yet efficient method, where rubber slabs are clamped between two metal or wooden bars and applied with pressure against the belt to scrape away residual materials. This method is gentle on the belt, reducing the risk of damage.
 
- **Figure 5.3**: Rubber Scraper.
-  
-  ![Figure 5.3](/images/Figure5_3.png)
+**Figure 5.3**: Rubber Scraper.
+
+![Figure5.3](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/Capture4.PNG)
+
 
 These systems are designed to mitigate common issues such as material sticking to the belt, excessive wear, and buildup, leading to operational inefficiencies and damage. Regular maintenance and adopting these targeted solutions can significantly enhance the conveyor belt system's longevity and reliability.
 
